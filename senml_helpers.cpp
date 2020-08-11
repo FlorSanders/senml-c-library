@@ -23,7 +23,7 @@
 	    return (n + 2 - ((n + 2) % 3)) / 3 * 4;
     }
 #else
-    #include <Base64.h>
+    #include <MyBase64.h>
 #endif
 
 
